@@ -1,0 +1,10 @@
+"category","time_of_day","revenue","transactions"
+"Beauty","Evening",175740.00,392
+"Beauty","Morning",86650.00,172
+"Beauty","Afternoon",24400.00,47
+"Clothing","Evening",188320.00,429
+"Clothing","Morning",100795.00,225
+"Clothing","Afternoon",20880.00,44
+"Electronics","Evening",208360.00,454
+"Electronics","Morning",68965.00,151
+"Electronics","Afternoon",34120.00,73
